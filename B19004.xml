@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties last remonstrance to the whole kingdome of England in vindication of his royall integrity from the calumnious aspersions of some, who report that He doth only pretend peace, but not intend it, with his high court of parliament.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19004</idno><idno type="EEBO-CITATION">12141764</idno>
+  <idno type="VID">196993</idno>
+  <idno type="EEBO-PROQUEST">2248558708</idno>
+  
+            <idno type="STC">Wing C2378</idno>
+            <idno type="STC">Thomason v. I, pt. I, p. 224</idno>
+            <idno type="OCLC">12141764</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196993)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E86, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties last remonstrance to the whole kingdome of England in vindication of his royall integrity from the calumnious aspersions of some, who report that He doth only pretend peace, but not intend it, with his high court of parliament.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield... ,</publisher>
+                  <pubPlace>Printed ... at Oxford ...  :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Thomason Coll .</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196993:1"/>
+            <pb facs="tcp:196993:1"/>
+            <p>HIS MAIESTIES LAST REMONSTRANCE to the whole KINGDOME OF <hi>ENGLAND,</hi> In vindication of His royall integrity from the calumnious aspersions of some, who report that He doth only pretend Peace, but not intend it, with His high Court of Parliament.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Printed by His Majesties speciall command,</p>
+                        <closer>
+                           <dateline>at OXFORD, <date>
+                                 <hi>Jan.</hi> 23.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>By LEONARD LICHFIELD, Printer to the Universitie.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:196993:2"/>
+            <pb n="3" facs="tcp:196993:2"/>
+            <head>His Majesties last Remonstrance to the whole Kingdome of ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee cannot but with great griefe of heart Remonstrate and resent the misunder<g ref="char:EOLhyphen"/>standings of Our good Subjects, who al<g ref="char:EOLhyphen"/>though We have with divers serious and considerate Declarations of Our royall intentions, intimated to them Our desires and purposes for a speedy reconciliation between Our Selfe and Our high Court of Parliament, yet they cannot be perswaded to give Us credit, divers (as We are credibly informed) suspecting the integritie of Our in<g ref="char:EOLhyphen"/>tentions. But it is no great wonder if they will not beleeve Our Protestations and Declarations in that kinde, when by their incredulity of them they question and repugne the De<g ref="char:EOLhyphen"/>claration of God himselfe, who tells them that <hi>the hearts of Princes are in his hand;</hi> and neverthelesse they will needs be so familiar with Ours, as to know Our very thoughts: nay will be better acquainted with them (by revelation it seems) then We Our selfe, and force Us to intend that which Wee
+<pb n="4" facs="tcp:196993:3"/> never did, nay, to declare that which We never meant; as if We should go about to perswade Our Subjects, that Wee onely pretended Treaties for an Accommodation with Our Parliament, but never meant them; nay rather the cleane contrary.</p>
+            <p>But to the satisfaction of all Our loving Subjects, who will be disdeceived and disabused from all such suspicions and jealousies of Our integritie; We thought Our Selfe ingaged in Our Princely care to all Our People, and for the expressi<g ref="char:EOLhyphen"/>on of Our love and respect to Our high Court of Parliament, (with whom We desire more then any earthly thing to be at unity) to remonstrate by this Our Declaration Our true and righteous intentions.</p>
+            <p>First, We would desire all Our good Subjects to take into their serious consideration the miseries and calamities which wait upon all wars, especially such as Ours are, nationally civill; and but to ponder, whether they can beleeve a father can delight in the destruction of his children; a King in the ruine of his Subjects, or desolation of his kingdome. Whe<g ref="char:EOLhyphen"/>ther they can conjecture, in the justice of their consciences, that We who have been these eighteen yeares of Our passed reigne enriched with all the blessings that could attend a Soveraigne from the obedience and loialtie of His Subjects, can joy and take felicitie, to behold himselfe (even in an un<g ref="char:EOLhyphen"/>lookt for moment) devested of the chiefest attribute of His royaltie. His peoples hearts and affections; nay, and that He should still desire to keep them off from Him with specious and unreall pretensions of a reconcilement, and by that means to aggravate them by those delusions into a more ir<g ref="char:EOLhyphen"/>reconcileable disaffection; We would have them know, that We are sensible of the many decrescions and diminuti<g ref="char:EOLhyphen"/>ons which have been inflicted on Our Royaltie, by reason of this fatall difference between Our Selfe and Our high Court of Parliament: Wee are not (as they may, at lest should imagine) so stupid, as not to know that Our Parliament is
+<pb n="5" facs="tcp:196993:3"/> the master-nerve, that knits the body of the Kingdome to the King himselfe; that all Our royall Ancestors, from the beginning of Parliaments to Our owne very Reigne, have had in all their necessities their best reliefe from their Parlia<g ref="char:EOLhyphen"/>ments; that by the industry and care of Parliaments all those excellent and wholesome lawes (which have so long su<g ref="char:EOLhyphen"/>stained the state of this kingdome in good temper and con<g ref="char:EOLhyphen"/>dition at home, and reputation with forraine Nations) have been constituted and enacted; that the English Parliaments have ever been the ready cure for all diseases in the Subject, the upholder and maintainer of their Liberties, which cer<g ref="char:EOLhyphen"/>tainly Our Selfe have as much endevoured to maintaine and encrease as any of Our Predecessors: Finally, We are allu<g ref="char:EOLhyphen"/>red that Parliament is and must be the rectifier of all infirmi<g ref="char:EOLhyphen"/>ties, which can be contingent to Our Person or Posteritie: And therefore very simple must those persons be, who can conjecture We should have no reluctancie at these dissenti<g ref="char:EOLhyphen"/>ons, but rather seeke their continuation: and most malici<g ref="char:EOLhyphen"/>ously bent they must needs be against Our integrity and truth, that after so many Declarations and Protestations of Ours to that purpose, will not beleeve that We mean tru<g ref="char:EOLhyphen"/>ly that pacification between Our Selfe and Parliament, which hath been so often in agitation between Us. For who can be so unsensible as to imagine, much lesse report, that We labour the subversion of the essence of Parliaments, in which We are confident the greatest strength of Our Re<g ref="char:EOLhyphen"/>gall authority consists: as well they may beleeve that Wee should, to leave a Successour to Our Crowne of Our owne blood, destroy all Our Princely issue; or turne Apostate to the Christian Faith, so to be accounted the better Christian; as much incongruity there is in the one as in the other. For sure We can never take pleasure to see Our Self and all that have dependence on Us wretched and undone, as they must necessarily be, if a sudden period be not affixed to the diffe<g ref="char:EOLhyphen"/>rence betwixt. Our Selfe and Our high Court of Parliament.
+<pb n="6" facs="tcp:196993:4"/> And to descend to particularize Our discommodities ari<g ref="char:EOLhyphen"/>sing to Our Selfe by these unnaturall dissentions: First, Wee behold Our Selfe driven, as it were, from Our Palace at <hi>Whitehall,</hi> and Our other Royall Mansions neere about Our Regall City of <hi>London,</hi> Our Revenues sequestred, Our Fleet with-held, Our Royall Consort the Queen from Our society beyond Sea; and which is most to be grieved at, the Lawes of the Land so wisely and judiciously founded for the good of Our people despised and troden on, whilest rapine, theft, and injustice riot over the face of Our Dominions, depres<g ref="char:EOLhyphen"/>sing all equity, and violating all the property and right of the Subject, whilest the insolence and unbrideled fury of the Souldier runs over all the Realme, in despite of all the Edicts and Ordinances to the contrary of Our Selfe and Parliament, the unlimited hand of warre inflicting its terrors and punish<g ref="char:EOLhyphen"/>ments upon all, with the same impartiall licence; many of Our good Subjects having lost their lives in these lamen<g ref="char:EOLhyphen"/>table quarrels, and many more likely to forfeit theirs, should these warres continue: Religion in the mean time wander<g ref="char:EOLhyphen"/>ing up and downe our Dominions unreguarded; every man making to himselfe what forme of worship he pleaseth, and this confusion by no power of Our authority or Our Parlia<g ref="char:EOLhyphen"/>ments endevours being to be remedied. And surely very ignorant must hee be of all reason and discourse, that will in spight of Our teeths, believe that We affect and pursue the continuation of these wofull distempers, that will not be per<g ref="char:EOLhyphen"/>swaded but We take delight to see Our selves robbed of all the benefits and blessings of peace by the rigour and crueltie of this present civill warre; in which, who ever gaines We are sure to be the greatest loser, losing Our Subjects lives, Our owne tranquillity, nay, the hearts of Our people, the greatest and most excellent Royaltie of Kings. If the immen<g ref="char:EOLhyphen"/>sity of a misery be to be gathered out of the vastnesse of a pre<g ref="char:EOLhyphen"/>cedent happinesse, and he most wreched that hath beene formerly most fortunate; surely no King can groane under a
+<pb n="7" facs="tcp:196993:4"/> more hideous pressure of affliction then We doe at this pre<g ref="char:EOLhyphen"/>sent, being deprived of the greatest of Our earthly comforts, which Wee have so long and in so large a measure injoyed and possessed, and given over to discontents and distractions, and therefore they must be very repugnant to reason, and arrant enemies to all possibility of truth, that will not credit that Wee really intend peace and agreement with Our Court of Parliament: Wee behold those of Our No<g ref="char:EOLhyphen"/>bility and Gentry, that out of the duty of their fidelity, give their attendance in person upon Us, walke with discon<g ref="char:EOLhyphen"/>tented hearts and down-cast countenances for the conti<g ref="char:EOLhyphen"/>nuation of these warres, because they are for the most part ingaged in them against their kindred, friends and allies; their estates being as well as their lives in jeopardy, and they rendered odious to the people for their adhering to Our service: We behold also divers of Our good Townes, Cities, and Counties, especially Our capitall City of <hi>London,</hi> out of an implicit and descendent beliefe they have in the integri<g ref="char:EOLhyphen"/>ty of the Parliament, deserting Us daily, and with all wil<g ref="char:EOLhyphen"/>lingnesse offering their lives, estates and fortunes to the dis<g ref="char:EOLhyphen"/>pose of the Parliament, who for the defence of their liber<g ref="char:EOLhyphen"/>ties, which they suspect We intend, or have intended to vio<g ref="char:EOLhyphen"/>late, by reason of Our so long absence from Our high Court of Parliament, most of Our followers, being accounted guilty of that advice, being esteemed and declared Malignants to the Common-wealth; and certainly these are manifest and urgent afflictions to any man, much more to Us, and no means can Wee thinke of to give a timely end to this groaning brood of mischiefes, but a sudden and so long desired peace. Wee doe hereby remonstrate and declare to all Our loving Subjects, That though they, or divers of them may be mis<g ref="char:EOLhyphen"/>led by faction or ill advice, to believe that Wee onely pre<g ref="char:EOLhyphen"/>tend an Accommodation betweene Our Selfe and Parlia<g ref="char:EOLhyphen"/>ment; That Wee doe, as Wee expect God should blesse and prosper Us, seriously, and with integrity intend to setle
+<pb n="8" facs="tcp:196993:5"/> an agreement betweene Our Selfe and Our Parliament, upon such equall conditions, as shall be both agreeable to Our owne honour, and without the least infringement to the li<g ref="char:EOLhyphen"/>berty of the Subjects, or the essence or Priviledges of Par<g ref="char:EOLhyphen"/>liament, which some maliciously report Wee goe about to overthrow and diminish; further, declaring Our Royall pleasure herein, That We shall take it as an act of duty and good conscience toward God and Us, in any of Our Sub<g ref="char:EOLhyphen"/>jects, that shall any way endevour to promote and advance peace betweene Our selfe and Parliament, and believe them not to be well affected to the State, that shall hinder or op<g ref="char:EOLhyphen"/>pose it, peace being the immediate meanes under the pro<g ref="char:EOLhyphen"/>vidence of the Almighty, that must setle this Kingdome in its pristine state and happinesse.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
